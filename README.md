@@ -1,4 +1,5 @@
 Operating System Virtual Lab For Unit-1
+
 Demo
 
 You can see demo here
@@ -9,32 +10,30 @@ Languages
     javascript
 
 Description
-Deadlock and concurrency with semaphore :
+Brief Introduction About operating Systems: 
 
-You can visualize and play with the different algorithms of Deadlock and Concurrency.
+You can visualize and play with the Introduction and brief of OS.
 
-    Banker's Algorithm
-    Lock Variable
-    Test & Set Lock
-    Strict Alteration
-    Petersons Algorithm
-    Producer & Consumer
-    Binary Semaphore
-    Counting Semaphore
+   Introduction
+   What is an Operating System?
+   Computer System Structure
+   Four Components of a Computer System
+   Operating System Definition
+   Operating System Definition (Cont.)
+   Multiprogramming
+   
+Type of operating system:
 
-Scheduling Algorithm :
+You can visualize and play with the TyeType of OS.
 
-You can visualize and play with the all 9 sheduling algorithm on this website.
+    Batch Operating System
+    Multi-Programming System
+    Multi-Processing System
+    Multi-Tasking Operating System
+    Time-Sharing Operating System
+    Network Operating System
+    Real-Time Operating System
 
-    First Come First Serve
-    Shortest Job First
-    Longest Job First
-    Round Robin
-    Shortest Remaining Job First
-    Longest Remaining Job First
-    Priority Preemptive
-    Priority Non-Preemptive
-    Highest Response Ratio Next
 
 Get started
 
